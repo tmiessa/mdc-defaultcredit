@@ -36,9 +36,9 @@ There are 25 variables:
 * **PAY_AMT6**: Amount of previous payment in April, 2005 (NT dollar)
 * **default.payment.next.month**: Default payment (1=yes, 0=no)
 
-## Inspiration
+## Goals
 
-Some ideas for exploration:
+Para esse projeto, alguns desafios são:
 
-* How does the probability of default payment vary by categories of different demographic variables?
-* Which variables are the strongest predictors of default payment?
+* Análise descritiva para identificar qual é a probabilidade de ocorrer falta de pagamento por diferentes variáveis demográficas.
+* Identificar as variáveis mais relevantes que determinam o não pagamento das faturas do cartão de crédito.
