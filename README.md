@@ -2,8 +2,6 @@
 
 <https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset>
 
-Dataset: <https://1drv.ms/u/s!AopnQDuBNeTxvxbkMkyIoLXOBvpf>
-
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 ## Content
