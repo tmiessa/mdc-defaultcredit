@@ -1,4 +1,4 @@
-# Default of Credit Cards - Dataset Information
+# Default of Credit Cards
 
 <https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset>
 
