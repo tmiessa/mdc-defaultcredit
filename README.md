@@ -2,8 +2,6 @@
 
 <https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset>
 
-Dataset: <https://1drv.ms/u/s!AopnQDuBNeTxvxbkMkyIoLXOBvpf>
-
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 ## Content
@@ -36,9 +34,14 @@ There are 25 variables:
 * **PAY_AMT6**: Amount of previous payment in April, 2005 (NT dollar)
 * **default.payment.next.month**: Default payment (1=yes, 0=no)
 
-## Inspiration
+## Técnicas Envolvidas
+* Análise descritiva de dados.
+* Classificação binária.
+* Clustering.
 
-Some ideas for exploration:
+## Goals
 
-* How does the probability of default payment vary by categories of different demographic variables?
-* Which variables are the strongest predictors of default payment?
+Para esse projeto, alguns desafios são:
+
+* Análise descritiva para identificar qual é a probabilidade de ocorrer falta de pagamento por diferentes variáveis demográficas.
+* Identificar as variáveis mais relevantes que determinam o não pagamento das faturas do cartão de crédito.
