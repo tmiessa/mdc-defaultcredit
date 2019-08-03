@@ -34,6 +34,11 @@ There are 25 variables:
 * **PAY_AMT6**: Amount of previous payment in April, 2005 (NT dollar)
 * **default.payment.next.month**: Default payment (1=yes, 0=no)
 
+## Técnicas Envolvidas
+* Análise descritiva de dados.
+* Classificação binária.
+* Clustering.
+
 ## Goals
 
 Para esse projeto, alguns desafios são:
